@@ -1,0 +1,15 @@
+<package>
+<name>articulation_simulation</name>
+<version>0.0.1</version>
+<description>
+This is a package that exists simply to set up other packages.
+</description>
+<maintainer email="bucklemp@usc.edu">Matt Buckley</maintainer>
+<license>BSD</license>
+
+<buildtool_depend>catkin</buildtool_depend>
+
+
+</package>
+
+
