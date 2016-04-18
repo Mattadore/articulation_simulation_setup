@@ -66,6 +66,7 @@ source /opt/ros/hydro/setup.bash #not sure why it made me re-source here but oka
 
 (   
     dir=$(pwd)
+    mkdir -p sensor_manager_backup
     cd ./sensor*
     backup=$(pwd)
     roscd pr2_moveit_config/launch
