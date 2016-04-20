@@ -5,7 +5,7 @@ https://github.com/Lolu28/dmp origin hydro
 https://github.com/Mattadore/gazebo_tf_linker origin master
 https://github.com/ros-planning/moveit_commander origin hydro
 https://github.com/ros-drivers/openni_launch origin hydro
-https://github.com/Lolu28/particle_filter origin master
+https://github.com/Mattadore/particle_filter origin master
 https://github.com/Lolu28/pr2_gripper_traj_action origin master
 https://github.com/sniekum/pr2_lfd_utils origin master
 https://github.com/Mattadore/pr2_movement_routines origin master
